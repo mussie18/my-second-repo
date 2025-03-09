@@ -1,0 +1,11 @@
+body {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
+        background: rgb(9, 9, 9);
+        background: linear-gradient(
+          90deg,
+          rgba(9, 9, 9, 1) 0%,
+          rgba(112, 112, 112, 1) 98%
+        );
+        color: #ffffff;
+      }
